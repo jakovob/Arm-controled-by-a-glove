@@ -31,3 +31,8 @@ This project is created as part of the Hack Club: Half Life challenge. The main 
 * 5x SG90 Micro servo motors (for driving the arm joints)
 
 * 3D printed mechanical parts
+
+![Robotic arm assembly](IMG_20261018_192412.jpg)
+
+
+
